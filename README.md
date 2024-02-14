@@ -1,6 +1,6 @@
-Привет 👋
+### Привет 👋
 
-Недавно прошел обучение в Яндекс практикуме по специальности frontend разрабочик. 
+Недавно прошел обучение в **Яндекс практикуме** по специальности frontend разрабочик. 
 В React реализовывал многостраничные приложения включающие:
 • работу с формами 
 • валидацию вводимых данных 
@@ -12,13 +12,15 @@ Backend (node.js) :
 - валидация принимаемых данных.
 Есть опыт деплоя бэка и фронта на ВМ.
 
-Во время учебы в Яндекс практикуме работал part-time frontend разработчиком в Travelpayouts (Aviasales)
+Во время учебы в Яндекс практикуме работал part-time frontend разработчиком в **Travelpayouts (Aviasales)**
 Для Travelpayouts я создавал новые white paper на основе ранее разработанных. Проекты собирались на webpack верстка писалась на Pug, SCSS, JavaScript, использовался менеджер пакетов Yarn.  
 Примеры  white paper для Travelpayouts:  
 https://read.travelpayouts.com/en/boost-your-travel-affiliate-marketing-earnings-with-ai/  
 https://read.travelpayouts.com/en/partner-with-wayaway-to-get-an-additional-revenue-stream/  
 
-На данный момент нахожусь в поиске работы и участвую в проекте Яндекс акселлератора в качестве frontend разработчика на React. Создаем в команде сервис мониторинга физ. лиц.  
+На данный момент нахожусь в поиске работы и участвую в проекте **Яндекс акселлератора** в качестве frontend разработчика на React. Создаем в команде сервис мониторинга физ. лиц.  
 После проекта начну изучать TypeScript.
 
-Стек: React  JavaScript  HTML  CSS   PUG  SCSS  Webpack  NPM  Yarn  REST  API   Node.js   MongoDB  
+
+**Стек технологий:** <pre> React  JavaScript  HTML  CSS   PUG  SCSS  Webpack  NPM  Yarn  REST   API   Node.js   MongoDB</pre>
+ 

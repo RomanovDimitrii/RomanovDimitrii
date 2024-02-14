@@ -23,4 +23,7 @@ https://read.travelpayouts.com/en/partner-with-wayaway-to-get-an-additional-reve
 
 
 **Стек технологий:** <pre> React  JavaScript  HTML  CSS   PUG  SCSS  Webpack  NPM  Yarn  REST   API   Node.js   MongoDB</pre>
- 
+
+ *Facebook: https://www.facebook.com/profile.php?id=100006587464526&mibextid=2JQ9oc  
+ Telegram: @Dimirtii_Romanov  
+ email: Dimitrii.Romanof@gmail.com*

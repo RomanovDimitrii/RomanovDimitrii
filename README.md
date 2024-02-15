@@ -1,15 +1,16 @@
-### Привет 👋
+# Привет 👋
 
-Недавно прошел обучение в **Яндекс практикуме** по специальности frontend разрабочик. 
-В React реализовывал многостраничные приложения включающие:
-• работу с формами 
-• валидацию вводимых данных 
-• работу с API (REST)
-• регистрацию/авторизацию/аутентификацию пользователя
-Backend (node.js) :
-- регистрация пользователей
-- хранение, передача данных в БД 
-- валидация принимаемых данных.
+Я недавно прошел обучение в **Яндекс практикуме** по специальности frontend разрабочик.   
+В React реализовывал многостраничные приложения включающие:  
+• работу с формами   
+• валидацию вводимых данных   
+• работу с API (REST)  
+• регистрацию/авторизацию/аутентификацию пользователя 
+
+Backend (node.js) :  
+• регистрация пользователей  
+• хранение, передача данных в БД   
+• валидация принимаемых данных  
 Есть опыт деплоя бэка и фронта на ВМ.
 
 Во время учебы в Яндекс практикуме работал part-time frontend разработчиком в **Travelpayouts (Aviasales)**
@@ -22,7 +23,7 @@ https://read.travelpayouts.com/en/partner-with-wayaway-to-get-an-additional-reve
 После проекта начну изучать TypeScript.
 
 
-**Стек технологий:** <pre> React  JavaScript  HTML  CSS   PUG  SCSS  Webpack  NPM  Yarn  REST   API   Node.js   MongoDB</pre>
+**Инструменты и стек:** <pre> React  JavaScript  HTML  CSS   PUG  SCSS  Webpack  NPM  Yarn  API   Node.js   MongoDB</pre>
 
  *Facebook: https://www.facebook.com/profile.php?id=100006587464526&mibextid=2JQ9oc  
  Telegram: @Dimirtii_Romanov  

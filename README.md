@@ -1,6 +1,6 @@
 # Привет 👋
 
-Я недавно прошел обучение в **Яндекс практикуме** по специальности frontend разрабочик.   
+Меня зовут Дмитрий, я frontend разработчик.   
 
 Сейчас участвую в проекте **Яндекс акселлератора**. В команде создаем приложение по сбору данных из открытых источников по физ. лицам. 
 Ссылка на сайт:
@@ -18,7 +18,7 @@ Backend (node.js) :
 • валидация принимаемых данных  
 Есть опыт деплоя бэка и фронта на ВМ.
 
-Во время учебы в Яндекс практикуме работал part-time frontend разработчиком в **Travelpayouts (Aviasales)**
+Работал part-time frontend разработчиком в **Travelpayouts (Aviasales)**
 Для Travelpayouts я создавал новые white paper на основе ранее разработанных. Проекты собирались на webpack верстка писалась на Pug, SCSS, JavaScript, использовался менеджер пакетов Yarn.  
 Примеры  white paper для Travelpayouts:  
 https://read.travelpayouts.com/en/boost-your-travel-affiliate-marketing-earnings-with-ai/  
